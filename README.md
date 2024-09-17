@@ -1,0 +1,1 @@
+# spring-core-for-qa
